@@ -5,5 +5,5 @@
 
 <h3 align="left">Servidor de suporte:</h3>
 <p align="left">
-<a href="CmHmYBkNg3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/CmHmYBkNg3" height="30" width="40" /></a>
+<a href="CmHmYBkNg3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CmHmYBkNg3" height="30" width="40" /></a>
 </p>
